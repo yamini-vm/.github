@@ -1,6 +1,6 @@
 # Yamini Ecosystem
 
-The Yamini ecosystem is a collection of tools and libraries for building compiled and interpreted languages easily. It consists of the following components:
+The Yamini ecosystem consists of a collection of tools and libraries for building compiled and interpreted languages easily. It consists of the following components:
 
 1) [Yamini-VM](https://github.com/yamini-vm/yamini.git) - A virtual machine with simple bytecode IR that allows you to plug your language (interpreted/compiled) front-ends to.
 2) [YamASM](https://github.com/yamini-vm/yamasm.git) - An assembler that compiles down to machine code for the Yamini VM.

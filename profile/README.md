@@ -11,11 +11,11 @@ The Yamini ecosystem consists of a collection of tools and libraries for buildin
 
 ## Languages used
 
-- For the core systems (the virtual machine, assembler, compiled language, and the shell) are written in Rust because they require performance.
+- For the core systems (the virtual machine, assembler, compiled language, and the shell) are written in **Rust** because they require performance.
 
-- The code test is written in python and is made into a python package which can be installed using pip to make the testing easier.
+- The code test is written in **Python** and is made into a Python package which can be installed using pip to make the testing easier.
 
-- The debugger is written in javascript with a jQuery front end and Node.js backend.
+- The debugger is written in **Javascript** with a **jQuery** front end and **Node.js** backend.
 
 ## Contributing
 
